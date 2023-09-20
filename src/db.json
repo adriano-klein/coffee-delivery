@@ -1,0 +1,54 @@
+{
+  "products":[
+    {
+      "id": 1,
+      "name": "Expresso Tradicional",
+      "image_url":"https://i.ibb.co/n1xZLJq/Coffee-1.png",
+      "Category": "Tradicional",
+      "Description": "O tradicional café feito com água quente e grãos moídos",
+      "price": 9.90
+    },
+    {
+      "id": 2,
+      "name": "Expresso Americano",
+      "image_url":"https://i.ibb.co/p4dxknM/Coffee.png",
+      "Category": "Tradicional",
+      "Description": "Expresso diluído, menos intenso que o tradicional",
+      "price": 8.90
+    },
+    {
+      "id": 3,
+      "name": "Expresso Cremoso",
+      "image_url":"https://i.ibb.co/3YsdBWN/Expresso-Cremoso.png",
+      "Category": "Tradicional",
+      "Description": "Café expresso tradicional com espuma cremosas",
+      "price": 8.90
+    },
+    {
+      "id": 4,
+      "name": "Expresso Cremoso",
+      "image_url":"https://i.ibb.co/3YsdBWN/Expresso-Cremoso.png",
+      "Category": "Tradicional",
+      "Description": "Café expresso tradicional com espuma cremosas",
+      "price": 8.90
+    },
+    {
+      "id": 5,
+      "name": "Expresso Cremoso",
+      "image_url":"https://i.ibb.co/3YsdBWN/Expresso-Cremoso.png",
+      "Category": "Tradicional",
+      "Description": "Café expresso tradicional com espuma cremosas",
+      "price": 8.90
+    },
+    {
+      "id": 6,
+      "name": "Expresso Cremoso",
+      "image_url":"https://i.ibb.co/3YsdBWN/Expresso-Cremoso.png",
+      "Category": "Tradicional",
+      "Description": "Café expresso tradicional com espuma cremosas",
+      "price": 8.90
+    }
+  ]
+}
+
+
